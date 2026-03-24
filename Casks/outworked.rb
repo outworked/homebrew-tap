@@ -2,7 +2,7 @@
     version "0.2.0"
     sha256 "125128a3b04888c06aee2f4428aaff29635a9c037924b800ca6a06911b7526a2"                                                                
   
-    url "https://github.com/outworked/outworked/releases/download/v#{version}/Outworked-#{version}.dmg"
+    url "https://github.com/outworked/outworked/releases/download/v#{version}/Outworked-#{version}-arm64.dmg"
     name "Outworked"
     desc "Animal Crossing x Claude Code"                                                                 
     homepage "https://github.com/outworked/outworked"                                                  
