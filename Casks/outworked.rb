@@ -1,6 +1,6 @@
   cask "outworked" do
-    version "0.3.0"
-    sha256 "2aa40ab7fb5127495d69474f235fb9a2d560bbbf872c9b97a30e0251b23ac053"                                                                
+    version "0.3.1"
+    sha256 "58c17e6c41adc50a00b1acb964d76799d843efa7df41c1dc9f695b19c6d78170"                                                                
   
     url "https://github.com/outworked/outworked/releases/download/v#{version}/Outworked-#{version}-arm64.dmg"
     name "Outworked"
